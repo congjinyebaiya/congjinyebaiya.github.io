@@ -12,6 +12,6 @@
 - 如果你有什么问题想要与我探讨或者是单纯想交个朋友，都可以通过 [📧邮箱](mailto:alexkyle@congjinyebaiya.wang) 联系我, 时刻欢迎。
 
 
-![慢慢来，谁还不是翻山越岭去爱](https://static.congjinyebaiya.wang//20201230000215.JPG)
+![慢慢来，谁还不是翻山越岭去爱](![](https://static.congjinyebaiya.wang/default.new.png)
 
 > 想对过去那段难熬的日子说句再见，以后的我不会再频频回头，会好好吃饭，好好生活
