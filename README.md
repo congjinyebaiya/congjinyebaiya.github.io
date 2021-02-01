@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/alexk-12/alexk-12.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# 🎨 [fluoxetine12](https://fluoxetine12.icu/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hey，
 
-### Markdown
+**你好，这里。**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 我是 Alex Kyle，可以叫我 Alex 或者 k，我是这个项目的创建者，目前是一个大三学生，喜欢数码、喜欢音乐，也是一名菜鸡开发者233
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- 按理来说这里应该是一个 Hexo 博客，但是因为对于静态博客的不满，我放弃了之前通过 Hexo 搭建的个人博客，转为了通过语雀博客和 Notion 博客，专注于内容产出而不是博客本身。
 
-- Bulleted
-- List
+- 现在也在努力地学习来提升自己，希望能在编程中学到一些有用的东西。
 
-1. Numbered
-2. List
+- 放弃了之前的博客项目后，GitHub 的 pages 就有点闲下来，所以暂时创建了一个仓库，后续应该也会分享一些东西吧。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+- 以后我也会在我的 [语雀博客](https://www.yuque.com/congjinyebai/alexkyle) 以及个人独立博客 [fluoxetine12](https://fluoxetine12.icu/) 同步更新分享一些自己的见闻、看法和学习心得，以期通过这些学习总结更好地提升自己，如果能帮助到一小部分同样遇到问题的你们，那就更好了。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+- 如果你有什么问题想要与我探讨或者是单纯想交个朋友，都可以通过 [📧邮箱](mailto:alexkyle@congjinyebaiya.wang) 联系我, 时刻欢迎。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexk-12/alexk-12.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+![慢慢来，谁还不是翻山越岭去爱](https://static.congjinyebaiya.wang//20201230000215.JPG)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help 
