@@ -14,5 +14,5 @@
 
 > 想对过去那段难熬的日子说句再见，以后的我不会再频频回头，会好好吃饭，好好生活
 
-![慢慢来，谁还不是翻山越岭去爱](![](https://static.congjinyebaiya.wang/default.new.png)
+![慢慢来，谁还不是翻山越岭去爱](https://static.congjinyebaiya.wang/default.new.png)
 
