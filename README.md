@@ -1,5 +1,5 @@
 
-# 🎨 [fluoxetine12](https://fluoxetine12.icu/)
+# 🎨 [iamalex.blue](https://iamalex.blue/)
 
 ## Hey，
 
